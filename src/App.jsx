@@ -95,7 +95,7 @@ export default function App() {
         {/* Greeting */}
         <div className="mb-10">
           <p className="text-emerald-400 text-sm font-medium tracking-wide mb-1">
-            {getGreeting()}, Thel 👋
+            {getGreeting()}, Thel
           </p>
           <h1 className="text-4xl font-bold text-white leading-tight">
             Charging Network
@@ -219,7 +219,7 @@ export default function App() {
         {/* Footer */}
         <div className="mt-12 pt-6 border-t border-white/5 flex items-center justify-between">
           <p className="text-gray-700 text-xs">Built by Thel Theint Theint Sen</p>
-          <p className="text-gray-700 text-xs">⚡ Powered by clean energy</p>
+          <p className="text-gray-700 text-xs"> Powered by clean energy</p>
         </div>
 
       </div>
